@@ -1,0 +1,14 @@
+[
+  {
+    "tarea": "Tarea pendiente: Organizar las flores y la decoración floral para el evento de casamiento.",
+    "evento": "casamiento"
+  },
+  {
+    "tarea": "Tarea pendiente: Organizar la decoración del lugar del evento de cumpleaños.\n\nDescripción: Encargarse de seleccionar y adquirir los elementos decorativos necesarios, como globos, guirnaldas,",
+    "evento": "cumpleaños"
+  },
+  {
+    "tarea": "Crear una presentación de diapositivas con una recopilación de fotos y momentos destacados de los últimos años para ser proyectada durante el evento de aniversario. Incluir al menos 20 imágenes significativas y añadir",
+    "evento": "aniversario"
+  }
+]
